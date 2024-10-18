@@ -76,5 +76,3 @@ IP: 185.207.107.130, Malicious Vendors: 10
 IP: 136.27.4.26, Malicious Vendors: 2
 IP: 80.94.92.106, Malicious Vendors: 9
 ---
-
-Feel free to customize this README further to suit your needs! If you have any other questions or need additional modifications, just let me know.
