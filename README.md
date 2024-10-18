@@ -1,9 +1,4 @@
 # IP-Blacklist-Checker
-Sure, here's an updated README that includes the usage instructions and a place for sample output:
-
----
-
-# IP Malicious Checker
 
 This script checks a list of IP addresses for malicious activity using asynchronous HTTP requests. It is designed to be fast and efficient by processing all non-private IPs concurrently.
 
